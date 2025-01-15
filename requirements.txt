@@ -7,3 +7,4 @@ seaborn
 scikit-learn
 textblob
 streamlit_extras
+dotenv
